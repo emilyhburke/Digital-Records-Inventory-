@@ -1,5 +1,6 @@
 # Digital-Records-Inventory-
  Synthetic Data with refrence to Ontario Open Data Portal
+ To view Databse, navigate to the file: **File_Inventory_Project**
 
 ## Objective
 
