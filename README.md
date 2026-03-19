@@ -9,7 +9,7 @@ This project simulates an information management workflow using synthetic record
 The purpose was to clean a network drive in preparation for SharePoint Online migration. I built a file inventory to manage records, classified retention and disposition cases, and identified unreferenced and duplicate files using structures associated with public-sector operations.
 
 ---
-###Summary of Updates 2026-03-19
+### Summary of Updates 2026-03-19
 - Enforced naming schema for proposed file name via encoded formula
 - Exapnded synthetic file inventory
 
